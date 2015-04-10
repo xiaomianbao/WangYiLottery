@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A2472C401AD78C5500A41145 /* TXTestGit.m in Sources */ = {isa = PBXBuildFile; fileRef = A2472C3F1AD78C5500A41145 /* TXTestGit.m */; };
 		A2577CBB1AD0368C003E07E0 /* TXSettingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2577CBA1AD0368C003E07E0 /* TXSettingViewController.m */; };
 		A2D12E281AD239D2001BBD4F /* help.json in Resources */ = {isa = PBXBuildFile; fileRef = A2D12E091AD239D2001BBD4F /* help.json */; };
 		A2D12E291AD239D2001BBD4F /* bjdc_howto.html in Resources */ = {isa = PBXBuildFile; fileRef = A2D12E0B1AD239D2001BBD4F /* bjdc_howto.html */; };
@@ -85,6 +86,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A2472C3E1AD78C5500A41145 /* TXTestGit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXTestGit.h; sourceTree = "<group>"; };
+		A2472C3F1AD78C5500A41145 /* TXTestGit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXTestGit.m; sourceTree = "<group>"; };
 		A2577CB91AD0368C003E07E0 /* TXSettingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXSettingViewController.h; sourceTree = "<group>"; };
 		A2577CBA1AD0368C003E07E0 /* TXSettingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXSettingViewController.m; sourceTree = "<group>"; };
 		A2D12E091AD239D2001BBD4F /* help.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = help.json; sourceTree = "<group>"; };
@@ -404,6 +407,8 @@
 			children = (
 				A2D1A9D71ACEB16C006DA538 /* Classes */,
 				A2D1A9B11ACEB161006DA538 /* Supporting Files */,
+				A2472C3E1AD78C5500A41145 /* TXTestGit.h */,
+				A2472C3F1AD78C5500A41145 /* TXTestGit.m */,
 			);
 			path = 01_lottery;
 			sourceTree = "<group>";
@@ -745,6 +750,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A2D12E641AD2564D001BBD4F /* TXPushNotifiController.m in Sources */,
+				A2472C401AD78C5500A41145 /* TXTestGit.m in Sources */,
 				A2577CBB1AD0368C003E07E0 /* TXSettingViewController.m in Sources */,
 				A2D12E571AD240FB001BBD4F /* TXProductViewCell.m in Sources */,
 				A2D1A9E71ACEB911006DA538 /* TXTabBarButton.m in Sources */,
